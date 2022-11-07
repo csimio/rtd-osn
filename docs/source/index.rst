@@ -11,9 +11,9 @@ between resources such as instruments, campus data centers, national supercomput
 centers, and cloud providers; and (2) facilitate access to long tail data sets by the
 scientific community. Examples of data currently available on the OSN include synthetic
 data from ocean models; the widely used Extracted Features Set from the 
-`Hathi Trust Digital Library <https://www.hathitrust.org/>` ;
+`Hathi Trust Digital Library <https://www.hathitrust.org/>`_;
 open access earth sciences data from 
-`Pangeo <https://pangeo.io/>` ; and Geophysical Data from `BCO-DMO <https://www.bco-dmo.org/>` .
+`Pangeo <https://pangeo.io/>`_; and Geophysical Data from `BCO-DMO <https://www.bco-dmo.org/>`_.
 These data sets are being used by researchers to machine learning models, validate 
 simulations, and perform statistical analysis of live data.
 
