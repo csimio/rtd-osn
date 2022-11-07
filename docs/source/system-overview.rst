@@ -62,7 +62,7 @@ Resource Identifiers.
 For Protected Access Data Sets, the user first obtains an access key which is then
 embedded into the access command. Examples of each are provided below.
 
-Coming soon: Consistent with FAIR principles, every OSN data set will have a landing page
+**Coming soon:** Consistent with FAIR principles, every OSN data set will have a landing page
 that makes it easy to "visit" a data set from a browser, search engine, or data catalog.
 The landing page contains metadata that describes the data set, along with the links
 to preconfigured, downloadable tools for accessing the data.
