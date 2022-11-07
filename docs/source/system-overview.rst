@@ -49,9 +49,9 @@ more than 50 terabytes, please contact the OSN team directly to discuss before
 you submit your request.
 
 The OSN supports two types of data sets:
+
 #. Open Access Data Sets that are readable by anyone and writable by Curators and Data Managers.
-#. Protected Access Data Sets that are readable by invitation from a data manager
-and writable by Curators and Data Managers.
+#. Protected Access Data Sets that are readable by invitation from a data manager and writable by Curators and Data Managers.
 
 
 Every data set is a collection of objects that are individually and uniquely accessible
