@@ -27,12 +27,16 @@ by national, high-performance networks. 5 petabytes of storage are currently
 available for allocation.
 
 .. image:: images/osn-map.png
-  :width: 400
+  :width: 600
+  :align: center
   :alt: OSN Pod Deployment at six sites as of January, 2021
+OSN Pod Deployment at six sites as of January, 2021
 
 .. image:: images/osn-pod.png
-  :width: 400
+  :width: 600
+  :align: center
   :alt: OSN Storage Pod
+  :title: OSN Storage Pod
 
 File Systems
 ------------
