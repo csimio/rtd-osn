@@ -16,9 +16,8 @@ Configuration
 -------------
 Key characteristics of OSN storage are:
 
-* Ability to access data from anywhere via a RESTful interface that follows S3 conventions.
-* Federated identity management, allowing access to protected information with existing
-identity via InCommon or commercial services.
+* Ability to access data from anywhere via a RESTful interface that follows S3 conventions
+* Federated identity management, allowing access to protected information with existing identity via InCommon or commercial services
 * High speed access and transfer via national research and education networks
 * Security and data integrity
 
