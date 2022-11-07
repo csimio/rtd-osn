@@ -1,11 +1,6 @@
 Allocations
 ===========
 
-.. autosummary::
-   :toctree: generated
-
-   osn
-
 Storage on the OSN is allocated in standalone buckets independent of HPC allocations.
 There is a one-to-one mapping between buckets and allocations. This User Guide uses
 "Allocation" when referring to outward-facing operations such as Allocation requests,
