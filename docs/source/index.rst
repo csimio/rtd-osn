@@ -26,7 +26,12 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    system-overview
    allocations
+   accessing-datasets
+   landing-pages
+   data-sets
+   managing-files
+   transfer-data
+   help 
+
